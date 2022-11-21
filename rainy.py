@@ -6,6 +6,7 @@ I learnt how to enc/dec full files by chunks from here:
 https://github.com/roothaxor/Ransom/blob/master/holycrypt-v0.3.py
 
 So yeah, go check him out as well
+
 """
 
 import argparse, os, binascii, random, struct, re
